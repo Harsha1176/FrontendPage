@@ -1,3 +1,4 @@
 # FrontendPage
 This is assessment project of  slack frontend page
-![Screenshot 2025-03-23 132233](https://github.com/user-attachments/assets/4fb8f721-84da-44b3-adb4-7ff77417de38)
+
+![Screenshot 2025-03-23 132353](https://github.com/user-attachments/assets/1c2a5a62-4282-4615-b747-1bce4462fc52)
